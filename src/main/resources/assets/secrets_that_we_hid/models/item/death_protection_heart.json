@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "secrets_that_we_hid:item/death_protection_heart"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "chestcavity": "chestcavity:types/magical_beasts/warden.json",
+  "entities": [
+    "minecraft:warden"
+  ]
+}

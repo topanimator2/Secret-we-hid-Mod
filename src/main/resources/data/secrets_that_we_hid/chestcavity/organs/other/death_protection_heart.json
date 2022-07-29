@@ -1,0 +1,7 @@
+{
+  "itemID": "secrets_that_we_hid:death_protection_heart",
+  "organScores": [
+    {"id":"chestcavity:health","value": "2"},
+    {"id":"chestcavity:endurance","value": "-.3"}
+  ]
+}
